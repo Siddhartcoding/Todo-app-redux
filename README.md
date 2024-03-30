@@ -55,7 +55,7 @@ src/
 components: Contains React components for different parts of the application.
 redux: Contains Redux-related files including action creators and reducers.
 App.js: Main component where the application is initialized.
-index.js: Entry point of the application.
+main.js: Entry point of the application.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
