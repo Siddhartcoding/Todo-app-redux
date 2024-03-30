@@ -1,6 +1,4 @@
 
-Certainly! Below is a sample README file based on the provided code snippets:
-
 Personal Todo App
 This is a simple Todo application built using React and Redux. It allows users to add, remove, toggle completion status, 
 and filter todos based on their completion status and search term.
@@ -53,7 +51,7 @@ src/
 |   |-- actions.js
 |   |-- reducers.js
 |-- App.js
-|-- index.js
+|-- main.js
 components: Contains React components for different parts of the application.
 redux: Contains Redux-related files including action creators and reducers.
 App.js: Main component where the application is initialized.
